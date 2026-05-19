@@ -1,2 +1,2 @@
-# -
+# favor
 soft，book
